@@ -9,7 +9,7 @@ An analysis of third-party data tracking and security dependencies on major news
 
 ---
 
-## 1. Executive Summary
+## 1. Summary
 
 This project analyzes the network traffic of three major UK news websites—BBC News, The Guardian, and the Daily Mail—to quantify their use of third-party services and identify potential privacy and security implications. The analysis revealed a broad spectrum of data privacy practices, from BBC News, which featured no third-party requests, to the Daily Mail, where 30% of network requests were to third parties. A significant finding was the Daily Mail's critical dependency on the Zephr API for paywall and user experience management, which introduces a potential third-party security risk to its user data and platform stability.
 
